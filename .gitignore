@@ -1,0 +1,9 @@
+MDK-ARM/STM32F1_USB_CDC_Example/
+
+JLinkLog.txt
+JLinkSettings.ini
+
+*.lst
+*.dbgconf
+*.uvguix.*
+*.uvoptx
